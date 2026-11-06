@@ -1,8 +1,8 @@
 ## 👋 Hey there 
 
-I am a computer science student with a focus on system design and media.<br>
+I am a software developer with a focus on system design and media based in germany.<br>
 My current projects are tbd.<br>
-My current focus is learning about and improving my skills in Java, JS/TS + HTML + CSS, Python and C# by general studying and applying, but also building differently sized projects, which acts as my portfolio too.
+My current focus is improving my skills in Java, JS/TS + HTML + CSS, Python and C#, but also building differently sized projects, which acts as my portfolio too.
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
